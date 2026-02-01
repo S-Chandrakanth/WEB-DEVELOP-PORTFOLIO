@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="eng">
+    <head>
+        <meta charset="UTF-8">
+        <title> MY RESUME </title>
+    </head>
+    <body>
+        
+        <h1> CHANDRAKANTH S</h1>
+             <img src="chandru image.jpg" />
+            <h2>SUMMARY</h2>
+            <p>I'm a HardWorker.I interest to learn new things for develop knowledge and skills.Learning Web Development.</p>
+            <hr/>
+            <h2>EDUCATION</h2>
+             <ul>
+                <li><h5>Degree-Currently purusing Dr.Mahalingam college of Engineering and technology,Pollachi.</h5></li>
+               <li> <h5>Schooling-I done my schooling in SRV Boys Higher Secondary School,Namakkal.</h5></li>
+                <li><h5> Skills-I know Aptitude to solve Sum. I have coding skills to solve logical problems .</h5></li>
+             </ul>
+             <hr/>
+             <h2> CERTIFICATION</h2>
+             <ol>
+                <li><h5>I had done Paper presentation and WorkShop in outer college events</h5></li>
+                <li><h5> I had done Amazon Web Service(AWS) online class </h5></li>
+                <li><h5> I had done Intern in RoboMiracle Company</h5></li>
+             </ol>
+             <hr/>
+            <a href="Hobbies.html">MY HOBBIES</a> <br/>
+            <a href="contact.html">CONTACT ME</a> 
+            <footer>
+                <hr/>
+                &copy; copyright Reserved<br/>
+            </footer>
+    </body>
+    
+</html>
